@@ -4,6 +4,6 @@ using std::endl;
 
 int main (int argc, char** argv)
 {
-	cout << "Hello world !" << endl;
+	cout << "git is awesome !" << endl;
 	return 0;
 }
