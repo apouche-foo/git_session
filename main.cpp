@@ -11,4 +11,5 @@ int main (int argc, char** argv)
 void bar1()
 {
 	cout << "I'm bar !" << endl;
+	cout << "and git is awesome" << endl;
 }
