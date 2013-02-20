@@ -16,5 +16,5 @@ void foo1()
 void bar1()
 {
 	cout << "I'm bar !" << endl;
-	cout << "and git is awesome" << endl;
+	cout << "and git is awesome !" << endl;
 }
