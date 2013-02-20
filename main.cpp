@@ -10,7 +10,7 @@ int main (int argc, char** argv)
 
 void foo1()
 {
-	cout << "I'm foo !" << endl;
+	cout << "I'm foo ! " << endl;
 }
 
 void bar1()
