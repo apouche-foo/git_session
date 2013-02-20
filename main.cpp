@@ -8,6 +8,11 @@ int main (int argc, char** argv)
 	return 0;
 }
 
+void foo1()
+{
+	cout << "I'm foo !" << endl;
+}
+
 void bar1()
 {
 	cout << "I'm bar !" << endl;
